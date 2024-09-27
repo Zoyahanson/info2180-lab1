@@ -15,6 +15,7 @@
     <main>
         <h2>Zoya Hanson</h2>
         <p>I am 18 years old and I am currently a second year student pursuing a BSc. in Information Technology. I am interested in Web Development as it allows me to learn to be creative and create interactive experiences through webpages.</p>
+	<img scr="Penguin.jpg" alt="Image" width="200">
     </main>
     <footer>
         <p>Copyright &copy; 2020 Zoya Hanson.</p>
